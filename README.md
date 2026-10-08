@@ -23,30 +23,10 @@
 
 <br>
 
-> ✦ Transformando ideias em experiências digitais através do código.
-
 </div>
 
 ---
-
-## 𖦹 Sobre mim
-
-Olá! Eu sou **Franciellem**, desenvolvedora apaixonada por tecnologia, programação e criação de experiências digitais.
-
-Meu foco está no desenvolvimento **Full Stack**, unindo interfaces modernas, código limpo e soluções eficientes para transformar ideias em projetos reais.
-
-```text
-Frontend   →   HTML • CSS • JavaScript • React • TypeScript
-Backend    →   Java • PHP • Node.JS
-Database   →   SQL
-APIs       →   REST • Integrações
-Tools      →   Git • GitHub
-```
-
----
-
-## ✦ Conecte-se comigo
-
+## Sobre mim
 <p align="left">
 
 <a href="https://github.com/SEU_USUARIO">
@@ -63,33 +43,9 @@ Tools      →   Git • GitHub
 
 </p>
 
----
+Olá! Eu sou **Franciellem**, desenvolvedora apaixonada por tecnologia, programação e criação de experiências digitais.
 
-## ♡ Métricas
-
-<p align="left">
-
-<a href="https://github.com/SEU_USUARIO?tab=followers">
-<img
-src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=ff4f9a&labelColor=18181b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img
-src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=a855f7&labelColor=18181b&style=for-the-badge&logo=star&label=Estrelas"
-/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img
-src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=39d353&labelColor=18181b&style=for-the-badge"
-/>
-</a>
-
-</p>
-
----
+Meu foco está no desenvolvimento **Full Stack**, unindo interfaces modernas, código limpo e soluções eficientes para transformar ideias em projetos reais.
 
 # ⚡ Linguagens & Tecnologias
 
@@ -167,76 +123,6 @@ src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color
 
 </div>
 
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### ✦ GitHub
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ff4f9a&icon_color=a855f7&text_color=e4e4e7&bg_color=18181b"
-width="100%"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-### ♡ Tecnologias
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&title_color=39d353&text_color=e4e4e7&bg_color=18181b"
-width="100%"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🔥 Contribuições
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=18181b&ring=ff4f9a&fire=a855f7&currStreakLabel=39d353&sideLabels=e4e4e7&dates=71717a"
-width="70%"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=09090b&color=e4e4e7&line=ff4f9a&point=39d353&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
----
-
-# ♡ GitHub Achievements
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### `code • create • evolve`
@@ -244,8 +130,6 @@ src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhu
 <br>
 
 <sub>Feito com ♡ por <b>Franciellem.Dev</b></sub>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4f9a&height=100&section=footer"/>
 
