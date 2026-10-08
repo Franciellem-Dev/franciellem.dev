@@ -29,7 +29,7 @@
 ## Sobre mim
 <p align="left">
 
-<a href="[https://github.com/SEU_USUARIO](https://github.com/Franciellem-Dev/franciellem.dev/)">
+<a href="(https://github.com/Franciellem-Dev/">
 <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
